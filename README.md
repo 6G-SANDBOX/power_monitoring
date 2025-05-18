@@ -81,6 +81,9 @@ Install the custom VM monitoring agent inside every VM:
 4. Choose the appropriate Prometheus data source.
 5. Click **Import** to load the dashboard.
 
+![General View](images/grafana_1.jpg)
+
+![Detailed View](images/grafana_2.jpg)
 
 ## Contributors <!-- omit in toc -->
 
