@@ -52,10 +52,10 @@ Install the custom VM monitoring agent inside every VM:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brodriguez-opennebula/get_proc_ticks
+   git clone https://github.com/6G-SANDBOX/power_monitoring
    ```
 
-2. Build and run the agent inside the VM following the instructions provided in the repository.
+2. Build and run the agent inside the VM following the instructions provided in the get_proc_ticks folder.
 
 ---
 
